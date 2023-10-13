@@ -954,13 +954,13 @@ textarea::-webkit-scrollbar-thumb{
 
 /*======================= BrakPoints ============================ */
 
-@media(max-width:1200px){
+@media(max-width:1100px){
   html{
       font-size: 95%;
   }
 }
 
-@media(max-width:759px){
+@media(max-width:931px){
   header,section,footer{
       padding-left: 3%;
       padding-right: 3%;
@@ -989,7 +989,7 @@ textarea::-webkit-scrollbar-thumb{
   }
 }
 
-@media(max-width:631px){
+@media(max-width:931px){
   .proposal{
       display: none;
   }
@@ -1041,7 +1041,7 @@ textarea::-webkit-scrollbar-thumb{
   }
 }
 
-@media(max-width:631px){
+@media(max-width:831px){
   html{
       font-size: 80%;
   }
